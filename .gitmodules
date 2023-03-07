@@ -1,0 +1,3 @@
+[submodule "assignments"]
+	path = assignments
+	url = git@github.com:CDDLeiden/ULLA2023-Leiden-Assignments.git
