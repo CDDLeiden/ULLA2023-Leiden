@@ -9,8 +9,7 @@ You will find an `init.sh` script in each folder with Jupyter Notebooks. This sc
 ```bash
 
 wget https://raw.githubusercontent.com/CDDLeiden/ULLA2023-Leiden/master/init.sh?token=GHSAT0AAAAAABRXDNY4YIB2B2XREGD3IPWYZAI72VQ -O init.sh && chmod +x init.sh && ./init.sh
-    
- ```
+```
 
 You can also execute it from a Jupyter Notebook cell (note the `!` in front of the command):
 
