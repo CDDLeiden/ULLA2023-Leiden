@@ -1,0 +1,4 @@
+umap-learn
+yellowbrick
+rdkit
+molplotly
