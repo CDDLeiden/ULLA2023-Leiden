@@ -2,3 +2,4 @@ umap-learn
 yellowbrick
 rdkit
 molplotly
+mols2grid
