@@ -3,6 +3,8 @@
 Materials for the practicals organized by Leiden University at the 2023 ULLA course AI in DD. Contents:
 
 1. [Multidimensional Data Visualization and Unsupervised Learning](./practicals/01_plotting_unsupervised/)
+2. [Proteocheminformatics](./practicals/02_PCM/)
+3. [Uncertainty Quantification and Active Learning](./practicals/03_uncertainty_active_learning/)
 
 You will find an `init.sh` script in each folder alongside the provided Jupyter notebooks. This script will install all the required packages and is also executed in the beginning of each notebook. Make sure to check the following if things are not working as expected:
 
